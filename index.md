@@ -1,13 +1,7 @@
 # Kate Sandis — SNLE
 
-Bienvenue sur l’espace officiel de **Kate Sandis**.  
-Ici sont regroupées les ressources ouvertes et gratuites du projet **SNLE – Système de Neutralisation des Lignes d’Existence**.
-
----
-
-## 📂 Contenus gratuits téléchargeables
-- [Extrait 1 (PDF)](assets/extrait1.pdf)
-- [Extrait 2 (PDF)](assets/extrait2.pdf)
+✨ **Tous les contenus disponibles sur ce site sont gratuits et en open source.**  
+Ils peuvent être librement téléchargés, partagés et utilisés, dans l’esprit d’un accès ouvert à la pensée et à la création.
 
 ---
 
@@ -36,4 +30,5 @@ Ici sont regroupées les ressources ouvertes et gratuites du projet **SNLE – S
 
 ---
 
-⚠️ Tous les fichiers sont en libre accès, sans collecte de données ni suivi.
+⚠️ **Note :** aucun cookie, aucune collecte de données, aucun suivi.  
+Ce site est pensé comme une bibliothèque libre, simple et accessible.ni suivi.
