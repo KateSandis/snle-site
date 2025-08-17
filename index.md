@@ -1,6 +1,6 @@
 # "SNLE" par Kate Sandis
 
-![Bannière SNLE](assets/covers/banniere.html)
+![Bannière SNLE](assets/covers/banniere.webp)
 
 ✨ **Tous les contenus de ce site sont gratuits et en open source.**  
 Ils peuvent être librement téléchargés, partagés et utilisés, dans l’esprit d’un accès ouvert à la pensée et à la création.
