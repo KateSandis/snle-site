@@ -1,4 +1,4 @@
-# Kate Sandis — SNLE
+# "SNLE" par Kate Sandis
 
 ![Bannière SNLE](assets/covers/banniere.png)
 
