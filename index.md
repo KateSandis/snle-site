@@ -13,7 +13,7 @@ Ici, pas d'abonnement, pas de publicité, pas de suivi, pas de cookie, pas de tr
 ## 📬 Contact
 Pour toute question ou échange, vous pouvez écrire à :  
 👉 [katesandis@proton.me](mailto:katesandis@proton.me)
-Des réponses ne seront pas forcément adressées pour de simples remerciements ou témoignages mais sachez que ceux ci me vont droit au coeur et que je consigne vos coordonnées méticuleusement. Face au grand nombre de messages en ce printemps 2025, notamment face aux pressions de contrôles ciblés de plus en plus prégnants, je me dois de répondre en priorité aux messages les plus activistes et/ou en recherche de coopération. ceci afin de renforcer l'équipage dont nous aurons besoin très bientôt. Merci de votre compréhension. K.S.
+Des réponses ne seront pas forcément adressées pour de simples remerciements ou témoignages mais sachez que ceux ci me vont droit au coeur et que je consigne vos coordonnées méticuleusement. Face au grand nombre de messages en ce printemps 2025, notamment face aux pressions de contrôles ciblés de plus en plus prégnants, je me dois de répondre en priorité aux messages les plus activistes et/ou en recherche de coopération. Ceci afin de renforcer l'équipage dont nous aurons besoin très bientôt. Merci de votre compréhension et bon embarquement à chacun(e) d'entre vous. K.S.
 
 ---
 
