@@ -31,4 +31,4 @@ Ils peuvent être librement téléchargés, partagés et utilisés, dans l’esp
 ---
 
 ⚠️ **Note :** aucun cookie, aucune collecte de données, aucun suivi.  
-Ce site est pensé comme une bibliothèque libre, simple et accessible.ni suivi.
+Ce site est pensé comme une bibliothèque libre, simple et accessible.
