@@ -5,10 +5,10 @@
 ✨ **Tous les contenus de ce site sont gratuits et en open source.**  
 Ils peuvent être librement téléchargés, partagés et utilisés, dans l’esprit d’un accès ouvert à la pensée et à la création.
 
-> « Ceci n’est pas une publicité. C’est une porte. »
+> « Vous venez de pénétrer un espace citoyen de contre-surveillance et de résistance au contrôle orwellien en marche! Cet espace est un gigantesque SNLE à la disposition du peuple. K.S. »
 
-Bienvenue dans l’espace de diffusion du **Système de Neutralisation des Lignes d’Existence**.  
-Ici, pas de publicité, pas de suivi : seulement des textes, des couvertures, et des portes ouvertes.
+Bienvenue dans l’espace de diffusion SNLE du **Système de Neutralisation des Logiques d'Enfermement, des lignes d'Exposition et des Lignes d’Existence**.  
+Ici, pas d'abonnement, pas de publicité, pas de suivi, pas de cookie, pas de tracking : seulement des textes, des outils de couverture et des portes ouvertes à qui veut. Pour que la liberté d'expression redevienne vecteur de lecture, de pensée, de réflexion et de conscience. Pour que l'intelligence humaine procéde à ses propres mises à jour face à la montée des intelligences artificielles
 
 ---
 
@@ -51,4 +51,4 @@ Ici, pas de publicité, pas de suivi : seulement des textes, des couvertures, et
 ---
 
 ⚠️ **Note :** aucun cookie, aucune collecte de données, aucun suivi.  
-Ce site est pensé comme une bibliothèque libre, simple et accessible.
+Ce site est pensé comme une bibliothèque libre, simple et accessible. 
