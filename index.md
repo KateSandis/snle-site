@@ -5,10 +5,10 @@
 ✨ **Tous les contenus de ce site sont gratuits et en open source.**  
 Ils peuvent être librement téléchargés, partagés et utilisés, dans l’esprit d’un accès ouvert à la pensée et à la création.
 
-> « Vous venez de pénétrer un espace citoyen de contre-surveillance et de résistance au contrôle orwellien en marche! Cet espace est un gigantesque SNLE à la disposition du peuple. K.S. »
+> « Ceci n'est pas une publicité, c'est un quai d'embarquement! Vous venez de pénétrer un espace citoyen de contre-surveillance et de résistance au contrôle orwellien en marche! Cet espace accessible fait face à un gigantesque SNLE civil à la disposition du peuple. Vous embarquez? K.S. »
 
 Bienvenue dans l’espace de diffusion SNLE du **Système de Neutralisation des Logiques d'Enfermement, des lignes d'Exposition et des Lignes d’Existence**.  
-Ici, pas d'abonnement, pas de publicité, pas de suivi, pas de cookie, pas de tracking : seulement des textes, des outils de couverture et des portes ouvertes à qui veut. Pour que la liberté d'expression redevienne vecteur de lecture, de pensée, de réflexion et de conscience. Pour que l'intelligence humaine procéde à ses propres mises à jour face à la montée des intelligences artificielles
+Ici, pas d'abonnement, pas de publicité, pas de suivi, pas de cookie, pas de tracking, pas d'argent ni de contrepartie; on s'en fout, c'est pour la sauvegarde de la conscience humaine : seulement des textes, des outils et des portes ouvertes à qui veut les prendre. Pour que la liberté d'expression redevienne vecteur de lecture, de pensée, de réflexion et de conscience. Pour que l'intelligence humaine procéde à ses propres mises à jour face à la montée des intelligences artificielles. Et uniquement pour ça : même pas un chapeau... rien d'autre que lire et se questionner.
 
 ---
 
