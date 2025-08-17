@@ -1,4 +1,4 @@
-# "SNLE" par Kate Sandis
+# Trilogie SNLE - par Kate Sandis
 
 ![Bannière SNLE](assets/covers/banniere.webp)
 
