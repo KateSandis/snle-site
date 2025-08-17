@@ -10,6 +10,11 @@ Ils peuvent être librement téléchargés, partagés et utilisés, dans l’esp
 « Bienvenue dans l’espace de diffusion SNLE du **Système de Neutralisation des Logiques d'Enfermement, des lignes d'Exposition et des Lignes d’Existence**. Un manifeste et 3 tomes.  
 Ici, pas d'abonnement, pas de publicité, pas de suivi, pas de cookie, pas de tracking, pas d'argent ni de contrepartie ; on s'en fout, c'est pour la sauvegarde de la conscience humaine : seulement des textes écrits, des outils simples et des portes ouvertes à qui choisit de les prendre. Pour que la liberté d'expression redevienne vecteur de lecture, de pensée, de réflexion et de conscience. Pour que l'intelligence humaine procéde à ses propres mises à jour face à la montée des intelligences artificielles. Et pour ça : surtout pas un drapeau, même pas un chapeau... rien d'autre que lire et se questionner, voire m'envoyer un mail si le coeur vous en dit. K.S. »
 
+## 📬 Contact
+Pour toute question ou échange, vous pouvez écrire à :  
+👉 [katesandis@proton.me](mailto:katesandis@proton.me)
+Des réponses ne seront pas forcément adressées pour de simples remerciements ou témoignages mais sachez que ceux ci me vont droit au coeur et que je consigne vos coordonnées méticuleusement. Face au grand nombre de messages en ce printemps 2025, notamment face aux pressions de contrôles ciblés de plus en plus prégnants, je me dois de répondre en priorité aux messages les plus activistes et/ou en recherche de coopération. ceci afin de renforcer l'équipage dont nous aurons besoin très bientôt. Merci de votre compréhension. K.S.
+
 ---
 
 ## 📑 Accès rapide
