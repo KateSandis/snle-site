@@ -1,4 +1,4 @@
-# Trilogie SNLE - par Kate Sandis
+# Trilogie SNLE par Kate Sandis
 
 ![Bannière SNLE](assets/covers/banniere.webp)
 
@@ -7,7 +7,7 @@ Ils peuvent être librement téléchargés, partagés et utilisés, dans l’esp
 
 > « Ceci n'est pas une publicité, c'est un quai d'embarquement! Vous venez de pénétrer un espace citoyen de contre-surveillance, de résistance au contrôle orwellien en marche, dans le cadre de l'état de droit qu'est la France (pour l'instant)! Cet espace accessible vous améne aux abords d'un gigantesque SNLE civil (un sous marin français à la pointe de la technologie) à la disposition du peuple. Vous avez le droit de monter, qui que vous soyez, vraiment! Vous embarquez? K.S. »
 
-« Bienvenue dans l’espace de diffusion SNLE du **Système de Neutralisation des Logiques d'Enfermement, des lignes d'Exposition et des Lignes d’Existence**. Un manifeste et une trilogie en 3 tomes.  
+« Bienvenue dans l’espace principal -et protégé- de libre diffusion SNLE du **Système de Neutralisation des Logiques d'Enfermement, des lignes d'Exposition et des Lignes d’Existence**. Un manifeste et une trilogie en 3 tomes.  
 Ici, pas d'abonnement, pas de publicité, pas de suivi, pas de cookie, pas de tracking, pas d'argent ni de contrepartie ; on s'en fout, c'est pour la sauvegarde de la conscience humaine : seulement des textes écrits, des outils simples et des portes ouvertes à qui choisit de les prendre. Pour que la liberté d'expression redevienne vecteur de lecture, de pensée, de réflexion et de conscience. Pour que l'intelligence humaine procéde à ses propres mises à jour face à la montée des intelligences artificielles, utilisées de plus en plus à mauvais escient. Et pour ça : surtout pas un drapeau, même pas un chapeau... rien d'autre que lire et se questionner, voire m'envoyer un mail si le coeur vous en dit. K.S. »
 
 ## 📬 Contact
