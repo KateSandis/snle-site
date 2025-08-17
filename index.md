@@ -1,7 +1,23 @@
 # Kate Sandis — SNLE
 
-✨ **Tous les contenus disponibles sur ce site sont gratuits et en open source.**  
+![Bannière SNLE](assets/covers/banniere.png)
+
+✨ **Tous les contenus de ce site sont gratuits et en open source.**  
 Ils peuvent être librement téléchargés, partagés et utilisés, dans l’esprit d’un accès ouvert à la pensée et à la création.
+
+> « Ceci n’est pas une publicité. C’est une porte. »
+
+Bienvenue dans l’espace de diffusion du **Système de Neutralisation des Lignes d’Existence**.  
+Ici, pas de publicité, pas de suivi : seulement des textes, des couvertures, et des portes ouvertes.
+
+---
+
+## 📑 Accès rapide
+- [Biographie](#-biographie-de-kate-sandis)
+- [Manifeste](#-manifeste-de-la-trilogie-snle)
+- [Tome 1](#-tome-1--observation)
+- [Tome 2](#-tome-2--retrait)
+- [Tome 3](#-tome-3--incarnation)
 
 ---
 
