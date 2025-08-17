@@ -5,7 +5,7 @@
 ✨ **Tous les contenus de ce site sont gratuits et en open source.**  
 Ils peuvent être librement téléchargés, partagés et utilisés, dans l’esprit d’un accès ouvert à la pensée et à la création.
 
-> « Ceci n'est pas une publicité, c'est un quai d'embarquement! Vous venez de pénétrer un espace citoyen de contre-surveillance et de résistance au contrôle orwellien en marche! Cet espace accessible fait face à un gigantesque SNLE civil à la disposition du peuple. Vous embarquez? K.S. »
+> « Ceci n'est pas une publicité, c'est un quai d'embarquement! Vous venez de pénétrer un espace citoyen de contre-surveillance et de résistance au contrôle orwellien en marche! Cet espace accessible vous présente un gigantesque SNLE civil à la disposition du peuple. Vous avez le droit de monter qui que vous soyez. Vous embarquez? K.S. »
 
 « Bienvenue dans l’espace de diffusion SNLE du **Système de Neutralisation des Logiques d'Enfermement, des lignes d'Exposition et des Lignes d’Existence**. Un manifeste et 3 tomes.  
 Ici, pas d'abonnement, pas de publicité, pas de suivi, pas de cookie, pas de tracking, pas d'argent ni de contrepartie ; on s'en fout, c'est pour la sauvegarde de la conscience humaine : seulement des textes écrits, des outils simples et des portes ouvertes à qui choisit de les prendre. Pour que la liberté d'expression redevienne vecteur de lecture, de pensée, de réflexion et de conscience. Pour que l'intelligence humaine procéde à ses propres mises à jour face à la montée des intelligences artificielles. Et pour ça : surtout pas un drapeau, même pas un chapeau... rien d'autre que lire et se questionner, voire m'envoyer un mail si le coeur vous en dit. K.S. »
