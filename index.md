@@ -35,6 +35,16 @@ Un outil pratique qui vous guide pas à pas pour utiliser concrétement et de fa
 
 ---
 
+## 📜 Licence
+**Contenus sous Creative Commons BY-NC-SA 4.0**.  
+- Attribution obligatoire : *“Kate Sandis — SNLE”*  
+- Pas d’usage commercial.  
+- Partage dans les mêmes conditions.  
+
+[Texte intégral de la licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
 ## 👤 Biographie de Kate Sandis
 - [Biographie officielle (PDF)](assets/biographie.pdf)
 
