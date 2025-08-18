@@ -20,7 +20,7 @@ Des réponses ne seront pas forcément adressées pour de simples remerciements 
 ---
 
 ## 🧭 Outil interactif de diagnostic SNLE
-Un outil pratique qui vous guide pas à pas pour utiliser concrétement et de façon personnalisée les textes de la trilogie SNLE comme cadre d’analyse et d'action stratégique.  
+Un outil pratique qui vous guide pas à pas pour utiliser concrétement et de façon personnalisée les textes de la trilogie SNLE comme cadre d’analyse et d'action stratégique. Avec l'assistance de chatgpt5 👉 https://chatgpt.com/
 👉 [Télécharger le mode d’emploi (PDF)](assets/outil-snle.pdf)
 
 ---
