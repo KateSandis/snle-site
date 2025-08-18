@@ -65,4 +65,13 @@ Un outil pratique qui vous guide pas à pas pour utiliser concrétement et de fa
 ---
 
 ⚠️ **Note :** aucun cookie, aucune collecte de données, aucun suivi.  
-Ce site est pensé comme une bibliothèque libre, simple et accessible. 
+Ce site est pensé comme une bibliothèque libre, simple et accessible.
+
+---
+
+**Licence :** Contenus sous **Creative Commons BY-NC-SA 4.0**.  
+Crédit requis : “Kate Sandis — SNLE”.  
+[Texte de la licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Commit changes.
+
+
